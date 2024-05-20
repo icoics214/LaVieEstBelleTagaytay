@@ -18,6 +18,8 @@ body {
   background-size: cover;
 }
 
+
+
 p {
 font-family: "Cormorant Garamond", serif;
 font-weight: 600;
@@ -106,3 +108,13 @@ h4 {
   font-style: italic;
 }
 
+.btn-facebook {
+  background-color: #3b5998;
+  border-color: #3b5998;
+  color: #fff;
+}
+
+.btn-facebook:hover {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
